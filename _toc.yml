@@ -12,4 +12,6 @@ chapters:
   - file: slides/2022-01-14-function-errors.ipynb
   - file: slides/2022-01-19-conditioning.ipynb
   - file: slides/2022-01-21-rootfinding.ipynb
-  - file: slides/2022-01-24-newton.ipynb
+  - file: slides/2022-01-24-convergence-classes.ipynb
+  - file: slides/2022-01-26-newton.ipynb
+  - file: slides/2022-01-28-more-newton.ipynb
