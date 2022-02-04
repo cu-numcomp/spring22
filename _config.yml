@@ -5,7 +5,7 @@ title: Numerical Computation
 author: Jed Brown
 logo: img/cu-numcomp.svg
 
-exclude_patterns: [VENV/*, README.md, activities/*, nbgrader/*]
+exclude_patterns: [VENV/*, README.md, activities/*, nbgrader/*, portfolio/*]
 
 parse:
   myst_enable_extensions:
