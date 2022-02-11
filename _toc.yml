@@ -19,3 +19,4 @@ chapters:
   - file: slides/2022-02-04-stability.ipynb
   - file: slides/2022-02-07-linear-algebra.ipynb
   - file: slides/2022-02-09-projections.ipynb
+  - file: slides/2022-02-11-gram-schmidt.ipynb
