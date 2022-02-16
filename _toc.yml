@@ -21,3 +21,4 @@ chapters:
   - file: slides/2022-02-09-projections.ipynb
   - file: slides/2022-02-11-gram-schmidt.ipynb
   - file: slides/2022-02-14-qr-factorization.ipynb
+  - file: slides/2022-02-16-qr-stability.ipynb
