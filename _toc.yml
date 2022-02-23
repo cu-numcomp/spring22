@@ -24,3 +24,4 @@ chapters:
   - file: slides/2022-02-16-qr-stability.ipynb
   - file: slides/2022-02-18-householder.ipynb
   - file: slides/2022-02-21-qr-retrospective.ipynb
+  - file: slides/2022-02-23-svd.ipynb
