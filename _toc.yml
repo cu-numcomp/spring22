@@ -32,3 +32,4 @@ chapters:
   - file: slides/2022-03-07-splines.ipynb
   - file: slides/2022-03-09-higher-dimensions.ipynb
   - file: slides/2022-03-11-noisy-data.ipynb
+  - file: slides/2022-03-14-regression.ipynb
