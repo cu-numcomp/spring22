@@ -41,3 +41,4 @@ chapters:
   - file: slides/2022-04-11-integration.ipynb
   - file: slides/2022-04-13-quadrature.ipynb
   - file: slides/2022-04-15-transforms.ipynb
+  - file: slides/2022-04-18-diffeq.ipynb
